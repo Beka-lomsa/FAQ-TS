@@ -1,0 +1,42 @@
+.QuestionMainContainer{
+  display: flex;
+  flex-direction: column;
+  max-height: 509px;
+  margin-top: 20px;
+
+}
+.QueAnsContainer{
+  border-bottom: 1px solid #000000;
+  margin-top: 25px;
+  margin-left: 60px;
+  width: 320px;
+  height: max-content;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  display: flex;
+  flex-direction: column;
+}
+.QueSList{
+  display: flex;
+  justify-content: space-between;
+  color: #4B4C5F;
+ align-items: center;
+}
+.QueSListBold{
+  display: flex;
+  justify-content: space-between;
+  color: #4B4C5F;
+  font-weight: bolder;
+}
+
+.answer {
+  width: 350px;
+  padding-top: 13px;
+  padding-bottom: 16px;
+  color: #787887;
+}
+.icon{ 
+font-size: 27px;
+color: #F47B56;
+}

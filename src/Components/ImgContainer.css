@@ -1,0 +1,10 @@
+.imgContainer {
+  width: 472px;
+  height: 359px;
+  position: relative;
+}
+.boxImg {
+  position: absolute;
+  bottom: 10%;
+  left: -10%;
+}

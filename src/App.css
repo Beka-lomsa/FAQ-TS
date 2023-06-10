@@ -1,0 +1,36 @@
+*{
+  font-family: 'Kumbh Sans', sans-serif;
+}
+.backGround {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(180deg, #B068E9 0%, #6463E7 100%);
+  display: flex;
+
+}
+.mainContainer{
+  width: 920px;
+  height: 509px;
+  background-color: #FFFFFF;
+  border-radius: 23px;
+  margin: auto;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.mainContainer p {
+  text-transform: uppercase;
+  font-size: 32px;
+  line-height: 39.69px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 65px;
+  font-style: normal;
+  width: 67px;
+  height: 32px;
+  margin-left: 555px;
+  color: #1E1F36;
+}
+.imgSliderContainer {
+  display: flex;
+  position: relative;
+}
